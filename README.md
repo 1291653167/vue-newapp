@@ -1,4 +1,4 @@
-# ruibite
+# NewsApp
 
 ## Project setup
 ```
